@@ -5,33 +5,37 @@ Classifying points and images using the nearest neighbour classifier
 Getting Started
 
   Platforms (built on):-
+  
     1. Ubuntu 18.04.1 LTS Bionic Beaver
     2. Anaconda Navigator
     3. Jupyter Notebook
     
   Installing:-
+  
     1. To download and install Ubuntu (different versions) - https://www.ubuntu.com/download/desktop
     2. To download Anaconda - https://www.anaconda.com/download/#download
     3. To install Anaconda - http://docs.anaconda.com/anaconda/install/linux/
     4. Jupyter Notebook is available on Anaconda Navigator for download
     
   Using Anaconda:-
+  
     In the Linux command-line, type "anaconda-navigator" to open Anaconda Navigator
     
   Learning Source:-
+  
     edX - https://cs50.harvard.edu/
   
 
-About the Project
+About the Project:-
 
-This machine-learning project comprises of python code fragments which are used to classify points and images.
-The project makes use of the nearest-neighbour classifier algorithm for the above mentioned purpose.
+  This machine-learning project comprises of python code fragments which are used to classify points and images.
+  The project makes use of the nearest-neighbour classifier algorithm for the above mentioned purpose.
 
   Point Classification:-
-    A graph is plotted containing six points. These points are divided into two groups of three points each. Each group is assigned a colour - one red and the other green. A new test point is defined. The output of the program is the colour of the group to which the new point belongs.
-    The test point is classified based on the smallest distance of a predefined point from the test point.
     
-  
+    A graph is plotted containing six points. These points are divided into two groups of three points each. Each group is  assigned a colour - one red and the other green. A new test point is defined. The output of the program is the colour of the group to which the new point belongs.
+    The test point is classified based on the smallest distance of a predefined point from the test point.
+   
   Image Classification:-
     
     The image classification module consists of three code fragments:
