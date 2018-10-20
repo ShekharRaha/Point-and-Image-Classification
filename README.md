@@ -54,6 +54,6 @@ About the Project:-
       The training set is increased from 10 images to 1000 images and the same program is run. The program displays 97 correct outputs and three wrong ones. The performance of the project is increased.
 
 
-Author
-  Shekhar Raha
+Author:- 
+  Shekhar Raha: 
   Github Profile - https://github.com/ShekharRaha
